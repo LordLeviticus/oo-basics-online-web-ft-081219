@@ -1,4 +1,5 @@
-class Book
+class Book(title)
+  @book_title = title
 
 
 end
